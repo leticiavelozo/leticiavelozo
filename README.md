@@ -1,5 +1,6 @@
-## Hi there 👋
+## # Hi! I'm Letícia Velozo 👩‍💻
 
+I'm a final-year **Computer Science student** at **Universidade Federal do Espírito Santo (UFES)**. Passionate about predictive modeling, exploratory data analysis, and machine learning. 
 <!--
 **leticiavelozo/leticiavelozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
