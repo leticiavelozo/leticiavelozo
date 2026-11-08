@@ -1,4 +1,4 @@
-## # Hi! I'm Letícia Velozo 👩‍💻
+## Hi! I'm Letícia Velozo 👩‍💻
 
 I'm a final-year **Computer Science student** at **Universidade Federal do Espírito Santo (UFES)**. Passionate about predictive modeling, exploratory data analysis, and machine learning. 
 <!--
